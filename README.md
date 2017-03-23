@@ -1,5 +1,5 @@
 # Modern JavaScript Developer Milestone Challenge
-# Robot Battledome
+# Robot Battledome Awesomenesss Now
 
 ## Setup
 
